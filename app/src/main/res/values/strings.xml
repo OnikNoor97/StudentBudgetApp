@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Student Life App</string>
+    <string name="password3">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome_to_the_student_budget_app">Welcome to the Student Budget App!</string>
+    <string name="username">Username</string>
+    <string name="password2">Password</string>
+    <string name="login2">Login</string>
+    <string name="not_registered_click_here">Not Registered? Click Here</string>
+    <string name="forename">Forename</string>
+    <string name="surname">Surname</string>
+    <string name="password">Password</string>
+
+    <string-array name="color">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string-array name="modules">
+
+
+    </string-array>
+
+</resources>
